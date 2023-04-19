@@ -1,0 +1,4 @@
+staffNo,fullName,department,role,emailAddress,salary
+12344,bryan,Customer relation,RM,bryan@visa.com,10000
+12345,cyan,Customer service,SM,cyan@visa.com,12000
+12346,dyan,Customer help,CM,dyan@visa.com,8000
